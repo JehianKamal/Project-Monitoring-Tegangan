@@ -1,4 +1,4 @@
-# 📦 Project Name  
+# 📦 Monitoring Voltage Based ESP32 and Website
 Monitoring Voltage Based ESP32 and Website
 
 ## ✨ Features  
@@ -11,29 +11,14 @@ Monitoring Voltage Based ESP32 and Website
 ```
 git clone https://github.com/JehianKamal/Project-Monitoring-Tegangan.git
 ```
-- Install Library
-```
+## Install Library
 
-```
-- Install requirements
-```
-pip install -r requirements.txt
-```
-- Run Project
-```p
-ython main.py
-```
+- LiquidCrystal_I2C.h
+- UniversalTelegramBot.h
+- ASNProject.h 
 
 
-## Notes
-- Create requirements.txt
-```
-pip freeze > requirements.txt
-```
 
-- If only library used
-```
-pip install pipreqs
-pipreqs . --force
-pipreqs project_name --force (Jika mau update)
-```
+
+
+
